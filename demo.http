@@ -1,0 +1,2 @@
+### config test
+GET http://localhost:8000/cf
